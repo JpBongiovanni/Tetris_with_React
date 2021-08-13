@@ -126,3 +126,6 @@ const Tetris = () => {
 }
 
 export default Tetris
+
+//optimizations and changes
+//Instant drop, change rotate key, pause button, add controller, find better time increase function for lvl increase, check when to increase lvl.
