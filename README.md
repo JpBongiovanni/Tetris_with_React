@@ -1,3 +1,8 @@
+Tetris_with_React was created utilizing Thomas WeibenFalk's freeCodeCamp tutorial here: https://www.youtube.com/watch?v=ZGOaCxX8HIU
+Additional changes by myself are ongoing
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
